@@ -7,7 +7,7 @@ Edit video using blender
 We are going to learn how to do a simple edit.
 
 * Download blender : http://blender.org
-* Video : ******TOADD******
+* Video : https://www.youtube.com/watch?v=Sv3-KBc3jTk
 
 # Setup the interface
 We need to setup blender interface.   
