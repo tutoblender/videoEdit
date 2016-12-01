@@ -6,7 +6,7 @@ Monter des vidéos avec blender
 Nous allons apprendre à l'utiliser pour faire un montage simple.     
  
 * Télécharger blender : http://blender.org
-* Vidéo : ******TOADD******
+* Vidéo : https://www.youtube.com/watch?v=Sv3-KBc3jTk
 
 # Préparer l'interface
 Il nous faut paramétrer l'interface de blender.     
